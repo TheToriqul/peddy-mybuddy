@@ -1,0 +1,23 @@
+{
+  "name": "b10a6-pet-adoption-thetoriqul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course2/b10a6-pet-adoption-TheToriqul.git"
+  },
+  "author": "THeToriqul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course2/b10a6-pet-adoption-TheToriqul/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course2/b10a6-pet-adoption-TheToriqul#readme",
+  "devDependencies": {
+    "daisyui": "^4.12.12",
+    "tailwindcss": "^3.4.13"
+  }
+}
